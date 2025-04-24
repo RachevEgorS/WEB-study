@@ -1,0 +1,18 @@
+.inventory {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+  }
+  .inventory th, .inventory td {
+    border: 1px solid #DDB575;
+    padding: 8px;
+    text-align: left;
+  }
+  .inventory th {
+    background-color: #f2f2f2;
+  }
+  .inventory caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
